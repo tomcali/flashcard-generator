@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "node generation of flashcards and multiple-choice test",
+  "main": "myserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcali/flashcard-generator.git"
+  },
+  "keywords": [
+    "node",
+    "client-server",
+    "user-defined",
+    "modules"
+  ],
+  "author": "Tom Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcali/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/tomcali/flashcard-generator"
+}

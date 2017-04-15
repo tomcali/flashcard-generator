@@ -1,7 +1,7 @@
 // make-flash.js  makes flashcards in two styles
 // utilizes constructor functions and method-lookup pattern
 
-var fs = require('fs');
+var fs = require('fs');  // used for writing flashcards to external file
 
 // ---------- FUNCTION logToFileHelper ----------
 // helper function for logging to external file log.txt
@@ -21,26 +21,25 @@ function Basic(item, front, back) {
 	this.item = item;
 	this.front = front;
 	this.back = back;
-	this.card = function() {
-		console.log('\n\nItem', this.item,
-			'\nWhat term is described by this definition?\n',
-			this.front,
-			'\nAnswer:', this.back)};
+	this.card = '\n\nItem ' + (this.item + 1).toString() +
+			'\nWhat term is described by this definition?\n' +
+			this.front +
+			'\nAnswer: ' + this.back;
 	} else {
 		return new Basic(item, front, back);
 	}
 } // end of function Basic scope-safe constructor
 
+// scope-safe constructor for cloze flashcards
 function Cloze(item, front, back) {
-	if (this instanceof Basic) {
+	if (this instanceof Cloze) {
 	this.item = item;
 	this.front = front;
 	this.back = back;
-	this.card = function() {
-		console.log('\n\nItem', this.item,
-			'\nA ________ is described by this definition:\n',
-			this.front, '\n[Fill in the blank]',
-			'\nAnswer:', this.back)};
+	this.card = '\n\nItem ' +  (this.item + 1).toString() +
+			'\nA ________ is described by this definition:\n' +
+			this.front + '\n[Fill in the blank]' +
+			'\nAnswer :' + this.back;
 	} else {
 		return new Cloze(item, front, back);
 	}
@@ -50,11 +49,21 @@ function Cloze(item, front, back) {
 // ---------- FUNCTION makeBasic ----------
 function makeBasic() {
 	console.log('executing makeBasic function');
+	for (var i = 0; i < term.length; i++) {
+	  var basicItem = Basic(i, definition[i], term[i]);	
+	  logToFileHelper('./basic.txt', basicItem.card);
+      console.log('appended item', i+1, 'to basic.txt');
+    };
 }
 
 // ---------- FUNCTION makeCloze ----------
 function makeCloze() {
 	console.log('executing makeCloze function');
+	for (var i = 0; i < term.length; i++) {
+	  var clozeItem = Cloze(i, definition[i], term[i]);	
+	  logToFileHelper('./cloze.txt', clozeItem.card);
+      console.log('appended item', i+1, 'to cloze.txt');
+    };
 }
 
 // ---------- FUNCTION whatToDo ----------
@@ -79,7 +88,8 @@ function whatToDo(action) {
     else return actions[action](); // run the function for type of card
 } // end of method-lookup function whatToDo
 
-// here we set up arrays with the data needed for the cards
+// here we set up arrays as global variables
+// with the data needed for the cards
 // just five terms used here for testing the app
 var term = ['ahead in the count',
 'All Star Game',
@@ -88,30 +98,12 @@ var term = ['ahead in the count',
 'at bats (AB)'
 ];
 
-var definition = ["From the batter's point of view, a situation in which he has more balls than strikes.  Opposite of behind in the count",
+var definition = ["From the batter's point of view, a situation in which he has more balls than strikes.  Opposite of behind in the count.",
 "In Major League Baseball, a game played toward the middle of the baseball season with players selected from various teams for their exceptional skills.",
 "In Major League Baseball, one of two leagues composed of fifteen teams, five in each of three divisions. This league allows the designated hitter.",
 "Baseball slang for throwing the ball around the infield after completing a play with no one on base.",
 "Batting appearance in which the batter does not receive a base-on-balls (walk), is not hit by a pitch, and does not sacrifice (by bunt of sacrifice fly). The total at bats is used as the denominator in computing a player's batting average.  A subset of plate appearances."
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // read the command line to determine the type of flashcard

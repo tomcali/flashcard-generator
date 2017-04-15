@@ -1,0 +1,26 @@
+
+
+Item 1
+What term is described by this definition?
+From the batter's point of view, a situation in which he has more balls than strikes.  Opposite of behind in the count.
+Answer: ahead in the count
+
+Item 2
+What term is described by this definition?
+In Major League Baseball, a game played toward the middle of the baseball season with players selected from various teams for their exceptional skills.
+Answer: All Star Game
+
+Item 3
+What term is described by this definition?
+In Major League Baseball, one of two leagues composed of fifteen teams, five in each of three divisions. This league allows the designated hitter.
+Answer: American League
+
+Item 4
+What term is described by this definition?
+Baseball slang for throwing the ball around the infield after completing a play with no one on base.
+Answer: around the horn
+
+Item 5
+What term is described by this definition?
+Batting appearance in which the batter does not receive a base-on-balls (walk), is not hit by a pitch, and does not sacrifice (by bunt of sacrifice fly). The total at bats is used as the denominator in computing a player's batting average.  A subset of plate appearances.
+Answer: at bats (AB)

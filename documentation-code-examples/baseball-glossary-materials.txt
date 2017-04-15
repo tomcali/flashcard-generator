@@ -1,0 +1,594 @@
+% glossary for sports
+
+\section{Baseball Glossary}
+\label{label_pageref_baseball_glossary}
+
+\ifthenelse{\bookcode = 6}{
+\bottomnote{Developed in conjunction with \citeN{Miller:2016}, 
+this is a guide to terms used by baseball players, managers, analysts, and fans. It provides an introduction to the language of the game as it has evolved over more than two hundred years of play in the United States.  Official definitions of terms are provided by  \citeN{MLB:2015}. \citeN{Hampel:2007} reviews baseball slang.  Ripken and Ripken (\citeyearNP{Ripken-Ripken:2004}, \citeyearNP{Ripken-Ripken:2007}) explain baseball fundamentals for players and coaches. Additional  useful resources are \citeN{Dickson:2009}, the \url{MLB.com} website, and the Wikipedia \citeyear{WikipediaBaseball:2015} \emph{Glossary of Baseball.}}
+}
+
+\ifthenelse{\bookcode = 7}{
+\bottomnote{Developed in conjunction with \citeN{Martin:2016}, 
+this is a guide to terms used by baseball players, managers, analysts, and fans. It provides an introduction to the language of the game as it has evolved over more than two hundred years of play in the United States.  Official definitions of terms are provided by  \citeN{MLB:2015}. \citeN{Hampel:2007} reviews baseball slang.  Ripken and Ripken (\citeyearNP{Ripken-Ripken:2004}, \citeyearNP{Ripken-Ripken:2007}) explain baseball fundamentals for players and coaches.  Additional  useful resources are \citeN{Dickson:2009}, the \url{MLB.com} website, and the Wikipedia \citeyear{WikipediaBaseball:2015} \emph{Glossary of Baseball.}}
+}
+
+\item[ahead in the count] \index{baseball term!ahead in the count} From the batter's point of view, a situation in which he has more balls than strikes.  Opposite of \emph{behind in the count}.  
+
+\item[All Star Game] \index{baseball term!All Star Game} In Major League Baseball, a game played toward the middle of the baseball season with players selected from various teams for their exceptional skills.
+
+\item[American League] \index{baseball term!American League} In Major League Baseball, one of two leagues composed of fifteen teams, five in each of three divisions. The American League allows the designated hitter.  See \emph{National League}.
+
+\item[around the horn] \index{baseball term!around the horn} Baseball slang for throwing the ball around the infield after completing a play with no one on base.
+
+\item[at bats (AB)] \index{baseball term!at bats (AB)} Batting appearance in which the batter does not receive a base-on-balls (walk), is not hit by a pitch, and does not sacrifice (by bunt of sacrifice fly). The total at bats is used as the denominator in computing a player's batting average.  A subset of plate appearances.
+
+\item[away team] \index{baseball term!away team} The team that is playing a game away from its home stadium. Also called \emph{visiting team}.
+
+\item[bailing out] \index{baseball term!bailing out}  Baseball slang for a batter who's foot closest to the pitcher moves away from home plate when swinging at the ball. May happen to a batter regardless of his batting stance (closed or open).  Also, known as \emph{stepping in the bucket}.
+
+\item[balk]\index{baseball term!balk} While pitching from the stretch with a runner on base, the pitcher must come to a complete stop before throwing to a position player covering the on-base runner. A balk is failing to come to a complete stop, and the runner is awarded the next base as a penalty to the  team on the field.
+
+\item[ball] \index{baseball term!ball} A pitch outside the strike zone and is not hit by the batter.  Any ball that touches the ground prior to reaching home plate.
+
+\item[ban on women]\index{baseball term!ban on women} Between 1952 and 1992, there was a ban on women in Major League Baseball.
+
+\item[base]\index{baseball term!base} One of four points that a runner must touch to score a run: first base, second base, third base, and home base (home plate).
+
+\item[base on balls (BB)]\index{baseball term!base on balls (BB)} The batter is awarded first base without hitting the ball because he receives four balls before getting three strikes. Also called a \emph{walk} because the batter typically walks rather than runs to first base. 
+
+\item[base runner] \index{baseball term!base runner} Offensive player on base (first, second, or third base).
+
+\item[bases loaded]\index{baseball term!bases loaded} Baseball slang for having runners on first, second, and third base.
+
+\item[base coach] \index{baseball term!base coach}  Team member in uniform designated by the manager to help with advising runners on the base paths.  The first base coach advises runners on first about running to second base. The third base coach advises runners about running to home base.
+
+\item[base hit] \index{baseball term!base hit} A hit in which the batter reaches as far as first base. See \emph{single (1B)}.
+
+\item[baserunner] \index{baseball term!baserunner} Offensive player who has reached one of the bases safely and remains on-base until the inning is over.
+
+\item[baserunning error] \index{baseball term!baserunning error} An offensive player runs outside the base path or fails to touch a base. Counts as an out for the batting team, but is not recorded as an error in the box score for the team. Recorded errors are for the fielding team only.
+
+\item[batter] \index{baseball term!batter} Initial role of offensive player. Uses bat to hit the ball thrown by the pitcher.  Stands in the batter's box. Also called hitter.
+
+\item[batter in the hole] \index{baseball term!batter in the hole} Offensive player in the dugout set to be the batter after the batter on deck. 
+
+\item[batter on deck] \index{baseball term!batter on deck} Offensive player due next in the batter's box. That is, the player set to follow the batter currently at bat. There is a special area called the \emph{next batter's box} where the batter on deck is supposed to stand or kneel.
+
+\item[batter's box] \index{baseball term!batter's box} Area in which batter must stand while at bat.
+
+\item[battery] \index{baseball term!battery} The pitcher and catcher as a unit.
+
+\item[batting average (BA, AVG)] \index{baseball term!batting average (BA, AVG)} Hits divided by at bats (with walks and sacrifices not counted in at bats): $$BA = {Hits \over At \hspace*{.03in} Bats}$$
+A batting average above 0.300 is highly valued. Batting below 0.200 (sometimes called the \emph{Mendoza Line}) is tolerated only for pitchers and exceptionally good catchers and infielders. The average regular-season BA across the thirty MLB teams in the 2014 season was 0.251 \cite{SportsReferenceBatting:2015}.  A rule of thumb in selecting batters is to look for BA values above 0.250---that is, we look for batters who get a hit about one in every four at bats. Hitters batting above 0.300 are rare.  
+
+
+
+\item[batting stance]\index{baseball term!batting stance} A batter's position in the batter's box relative to home plate prior to the pitcher's throwing the ball.  Also see \emph{closed batting stance} and \emph{open batting stance}.
+
+\item[batting (team)]\index{baseball term!batting team} The team on offense, as opposed to the team on defense (on the field).
+
+\item[behind in the count] \index{baseball term!behind in the count} From the batter's point of view, a situation in which he has more strikes than balls. Also called \emph{down in the count} or \emph{in the hole}.  Opposite of \emph{ahead in the count}.  
+
+\item[bench] \index{baseball term!bench} Seating area for a team. Also called the \emph{dugout}.  Players not in the line-up are referred to as  \emph{sitting on the bench}.  A team with talented players not in the line-up is said to have \emph{bench strength} or a \emph{deep bench}.  Idiomatic expression:\,when an organization has many talented employees, it is said to have bench strength.
+
+\item[big leagues]\index{baseball term!big leagues} Major League Baseball. Affectionately called ``the bigs.''
+
+
+\item[BIP (BPIP)]\index{baseball term!BIP (BPIP)} Ball in play or ball put into play. When counting balls and strikes for a pitcher, balls put into play by hitters are strikes.
+
+\item[bloop single]\index{baseball term!bloop single} Term used for a ball that falls for a hit between the infielders and the outfielders. Also called a ``Texas Leaguer.''  
+
+\item[bunt] \index{baseball term!bunt}  Batting strategy that involves holding the bat in a fixed position, rather than swinging the bat. With two strikes, a bunted foul ball results in a third strike.
+
+\item[call]\index{baseball term!call}  As a verb, the umpire calls plays (calls a pitch a ball or strike, calls a hit ball fair or foul, and calls a runner safe or out).   As a noun, the umpire makes calls.
+
+\item[called game]\index{baseball term!called game}  A game canceled or postponed by the umpire. Prior to lighted stadiums, a game might have been called due to darkness. Currently, games are commonly called due to rain.
+
+\item[catcher]\index{baseball term!catcher} Defensive player who crouches behind home plate and catches balls thrown by the pitcher.  The only player on the fielding team positioned in foul territory.  Position number 2.  
+
+\item[caught looking] \index{baseball term!caught looking}  The batter is called out on strikes without swinging the bat.
+
+\item[caught off base] \index{baseball term!caught off base} A base runner is permitted to step off base but may be tagged out by a defensive player when off base.
+
+\item[caught stealing (CS)] \index{baseball term!caught stealing (CS)} On an attempted steal, a base runner is tagged out prior to reaching the next base.
+
+\item[center fielder]\index{baseball term!center fielder} Defensive player who plays in the middle of the outfield, between the left fielder and right fielder. Position number 8.
+
+\item[Championship Series]\index{baseball term!Championship Series} At the end of the regular season, following the Wild Card Game, there are two Division Series playoffs in each league. The winners of these Division Series  play each other in a best-of-seven series known as a Championship Series, one in the American League and one in the National League.
+
+
+\item[changeup] \index{baseball term!changeup} An off-speed pitch (MLB speeds 70--85 mph).  Speed, rather than movement, is what distinguishes this pitch from a fastball.  Comes in various forms, including the circle changeup, three-finger changeup, and four-finger changeup (also known as a \emph{palm ball}).
+
+
+\item[check swing] \index{baseball term!check swing} A batter begins to swing at a pitched ball, but not far enough to be called a strike.  Whether a batter's swing is a check swing or a strike swinging is a matter of judgment. The call can be made by the home plate umpire, with possible appeal to the first base umpire for a right-handed batter or to the third base umpire for a left-handed batter.
+
+
+
+\item[choking up] \index{baseball term!choking up} Holding the bat with hands away  from the bottom (bat handle end) of the bat.  A technique used by singles hitters who take shorter swings and have more control of the bat. 
+
+\item[chop single] \index{baseball term!chop single}  Base hit in which the batter intentionally hits the ball down toward the ground so that it bounces high and is hard to catch in time to throw the batter out at first base.
+
+\item[clean-up hitter]\index{baseball term!clean-up hitter} The fourth hitter in the line-up,  selected because he has a good chance to get a hit with other runners on base.
+
+\item[closed batting stance]\index{baseball term!closed batting stance} A batter's position in the batter's box in which the foot closest to the pitcher is closer to home plate than the foot farthest from the pitcher.
+
+\item[closer] \index{baseball term!closer} Relief pitcher who ends a game.
+
+\item[clutch hitter] \index{baseball term!clutch hitter} A hitter who does well with runners on base and/or when the game is coming to an end and his team needs runs to avoid a loss.
+
+\item[coach] \index{baseball term!coach}  Team member in uniform designated by the manager to help with coaching duties such as acting as a base coach.
+
+\item[command]\index{baseball term!command} A pitcher with command can throws strikes when he needs to throw strikes.  Also see \emph{control}.
+
+\item[control]\index{baseball term!control} A pitcher with control throws strikes much more often than balls.  Also see \emph{command}.
+
+\item[cover the bases]\index{baseball term!cover the bases} A player on the fielding team covers a base by standing close to the base. By being close to the base the fielder is ready to execute a tag out or a force out. 
+Having a defensive player on every base is covering the bases.
+Idiomatic expression:\,when we prepare for every possibility, we cover the bases. When referring to a single base in baseball, it is common to use the phrase \emph{cover the bag}, as a fielder would do for a pick-off play.
+
+\item[crowd the plate] \index{baseball term!crowd the plate}  Batter stands in the batter's box very close to home plate.
+
+\item[curveball (curve)] \index{baseball term!curveball (curve)}  A breaking ball much slower than a fastball (MLB speed 65--80 mph). With a right-handed pitcher throwing to a right-handed hitter or with a left-handed pitcher throwing to a left-handed hitter, a curve ball breaks away from the hitter.  The standard curveball is the overhand curveball, affectionately known as \emph{Uncle Charlie} or  \emph{the hook}.  Some pitchers throw what is known as a \emph{knuckle curveball}.
+
+\item[cut fastball (cutter)] \index{baseball term!cut fastball (cutter)} Also called a \emph{cut fastball}.  A fastball with movement.
+
+\item[cut-off position] \index{baseball term!cut-off position} A position on the field of play between an outfielder and home plate. With a runner rounding the bases and heading for home, the outfielder can throw a ball toward home plate using a low trajectory, so  an infielder in the cut-off position can intercept the ball and throw to another base, usually second base, to prevent another runner from advancing around the bases. Alternatively, the infielder cutting off the ball from the outfield can decide to throw the ball home 
+enabling the catcher to tag the runner out.
+Because the infielder is closer to home base than the outfielder, the infielder's throw is likely to be more accurate than the outfielder's. Many outfielders do not have strong throws to home base, so throwing to the player in the cut-off position is essential. 
+
+
+\item[dead ball]\index{baseball term!dead ball} Ball out of play, resulting in temporary suspension of play.
+
+\item[dead ball era]\index{baseball term!dead ball era} Pre-1920 baseball. Period during which very few balls were used during games. There was no requirement to use a new white ball. Contrasted with \emph{live ball era}.
+
+\item[dead red hitter]\index{baseball term!dead red hitter} A batter who can hit only when he gets the type of pitch he is looking for, such as a fastball.  But when thrown another pitch, such as a curve, he has trouble hitting.
+
+\item[defense]\index{baseball term!defense} Team on the field, as opposed to the team that is up to bat (offense).
+
+\item[defensive indifference]\index{baseball term!defensive indifference} A runner on base attempts to take the next base, and the team on the field allows it. The situation occurs late in a game when the team on the field has a lead of more than one run, so an additional run by the hitting team will not win the game. When the official scorer rules defensive indifference, the runner's act of taking the next base is not recorded as a stolen base.
+
+\item[designated hitter (DH)]\index{baseball term!designated hitter (DH)} A player who has a place in the batting order but does not play a position in the field. This player hits in place of the weakest hitting player who takes the field (usually the pitcher). In Major League Baseball, the designated hitter role may be used in the American League, but not the National League.
+
+\item[diamond]\index{baseball term!diamond} Another word for the baseball field of play. Gets its name from the square/diamond shape of the infield defined by the four bases.
+
+\item[dig in]\index{baseball term!dig in} Batter uses spikes on shoes to make a hole in the batter's box. 
+
+\item[Division Series]\index{baseball term!Division Series} After the end of the regular season, a best-of-five series of playoff games within a league between winners of the three divisions and/or the Wild Card Game. There are two division series within each league.
+
+\item[double (2B)]\index{baseball term!double (2B)} A hit in which the batter reaches as far as second base. Also called a \emph{two-bagger}.
+
+
+\item[double-header]\index{baseball term!double-header} Two games played the same day.  A standard double-header has two games with a short break between them. A \emph{day-night double-header} has a number of hours between the games.
+
+\item[double play]\index{baseball term!double play} Getting two outs on one play.  Various double plays are designated by player position numbers. For example, a 4-6-3 double play involves a throw from the second baseman to the shortstop, followed by a throw from the shortstop to the first baseman. An \emph{unassisted double play} is a double play executed by one player alone.
+
+\item[double-switch] \index{baseball term!double-switch} Player substitution involving two players. Often used to substitute a position player along with a relief pitcher, with the position player (usually a better hitter) placed in the line-up so that he hits before the pitcher (usually a poorer hitter). 
+
+\item[dugout] \index{baseball term!dugout} Seating area for a team. Also called the \emph{bench}.  
+
+\item[earned run average (ERA)] \index{baseball term!earned run average (ERA)} Index of pitching performance. The number of runs allowed (not due to errors) per nine innings of play. Also see \emph{WHIP}.
+
+
+\item[expected runs] \index{baseball term!expected runs} Computed for any half-inning state or game situation, the number of runs the hitting team can expect to earn through the end of the half-inning.  The computation is based on historical play-by-play data for the state or game situation.  Expected runs are especially useful in the evaluation of alternative playing strategies, such as whether to use the sacrifice bunt or whether to attempt a stolen base.
+
+
+\item[extra-base hit] \index{baseball term!extra-base hit} Hit greater than a single. That is, a double, triple, or home run.
+
+\item[fair ball] \index{baseball term!fair ball}  Ball hit inside the foul lines.
+
+\item[fair territory] \index{baseball term!fair territory}  Region inside the foul lines.
+
+\item[fan] \index{baseball term!fan}  Short for ``fanatic'' or ``fancier.''  Another earlier term was ``crank.''  A consumer of the sport, someone who loves the game and/or a particular team. 
+
+\item[fantasy baseball] \index{baseball term!fantasy baseball}  Fans of baseball pretend to manage a Major League Baseball team by assembling a team of players.  Enables fans to make decisions as if they were owners of teams.  An early term for this activity was \emph{rotisserie baseball}.
+
+\item[fastball] \index{baseball term!fastball}  Faster than any other type of pitch, has MLB speeds 80--100 mph. Comes in various forms defined by the pitcher's grip on the ball, including the \emph{four-seam fastball}, \emph{two-seem fastball}, \emph{cut fastball} (also called a \emph{cutter}), and a \emph{split-finger fastball} (also called a \emph{splitter}).  The four-seam fastball is faster but has less movement than other fastballs.
+
+\item[fielder] \index{baseball term!fielder}  Player on defense.
+
+\item[fielder's choice] \index{baseball term!fielder's choice}  Batter arrives at first base because a fielder elects to get a runner out in place of the batter. Batter is not awarded a hit.
+
+\item[fielding error] \index{baseball term!fielding error}  A defensive play that should have resulted in an out, but does not.  Due to catching, not  throwing. Also see throwing error. 
+
+\item[first base]\index{baseball term!first base} The base a batter/hitter must touch first in order to get a hit.
+
+\item[first baseman]\index{baseball term!first baseman} Defensive player and infielder who plays closest to first base.  His position number is 3.
+
+\item[five-tool player]\index{baseball term!five-tool player}A player with strong baseball skills for running, fielding, throwing, hitting, and hitting with power.
+
+\item[fly ball] \index{baseball term!fly ball} Ball hit in the air, as opposed to a ground ball, but not hit low in the air, as opposed to a line drive.
+
+\item[fly out] \index{baseball term!fly out} Ball hit in the air and caught in the air, resulting in an out. May be in fair or foul territory. Also called a \emph{fly ball out}.  Different  from a  \emph{ground out}.
+
+\item[forfeited game] \index{baseball term!forfeited game}  Game ended by the umpire-in-chief in favor of a team that is leading by a score of nine to nothing or for violation of the rules of the game.
+
+\item[force out] \index{baseball term!force out}  As opposed to a \emph{tag out}, an out recorded when a defensive player with ball in hand or glove touches the base that a runner must advance toward because previous bases are occupied or about to be occupied. Also called a \emph{force play}. Also see \emph{neighborhood play}.
+
+\item[foul ball] \index{baseball term!foul ball}  Ball hit out of play, outside the foul lines.
+
+
+\item[foul territory] \index{baseball term!foul territory}  Region outside the foul lines.
+
+\item[foul tip] \index{baseball term!foul tip}  A foul ball that comes directly off the batter's bat and into the catcher's glove or hand. It counts as a strike, including a third strike.
+
+\item[frame (a pitch)] \index{baseball term!frame (a pitch)} Catcher's attempt to catch a ball thrown by a pitcher in a way that appears to be within the strike zone even if it does not fall within the strike zone.
+
+\item[free agent] \index{baseball term!free agent} Player not under contract to any specific team and eligible to sign with any team.
+
+\item[full count] \index{baseball term!full count}  Three balls and two strikes on the batter.
+
+\item[game (G)]\index{baseball term!game (G)}  A baseball game or appearance in a game.  
+
+
+\item[grand slam] \index{baseball term!grand slam} A home run with the bases loaded.
+
+
+\item[ground ball] \index{baseball term!ground ball} Ball hit on the ground, as opposed to a line drive or fly ball.
+
+\item[ground out] \index{baseball term!ground out}  Batter is thrown out at first base after hitting a ground ball to one of the fielders.  As opposed to a \emph{fly out}.
+
+\item[ground-rule double] \index{baseball term!ground-rule double} When  a  hit  bounces over a fence, leaving the field of play, the batter is awarded second base (a double).
+
+\item[hit (H)]\index{baseball term!hit (H)} Batter hits the ball and reaches a base safely without the aid of an error, fielder's choice, walk, or hit-by-pitch. Includes singles, doubles, triples, and home runs.  Idiomatic expression:\,a popular item is called a hit.
+
+\item[hit-and-run]\index{baseball term!hit-and-run} Offensive strategy intended to give the runner a head-start in moving to the next base. The batter tries to hit the ball regardless of where it is thrown in order to protect the runner.
+
+\item[hit batsman (hit by pitch, HBP)] \index{baseball term!hit batsman (hit by pitch, HBP)} When a pitched ball hits the batter's body, the batter is awarded first base.
+
+\item[hit for the cycle] \index{baseball term!hit for the cycle} A hitter gets at least one single, double, triple, and home run in a game. An unusual accomplishment.
+
+
+\item[hitter] \index{baseball term!hitter} Another term for batter. 
+
+\item[hitting slump] \index{baseball term!hitting slump}  A batter is having trouble hitting for a number of games in a row, either having no hits or having very few hits. 
+
+\item[hitting streak] \index{baseball term!hitting streak} A batter is doing exceptionally well at the plate. Usually assessed by the number of games in a row with at least one hit. Joe DiMaggio holds the record, hitting safely in 56 consecutive games. 
+
+\item[hitter's park] \index{baseball term!hitter's park} Parks such as Coors Field in Denver and Fenway Park in Boston are known to be favorable to hitters, yielding higher expected runs across all in-game states. As opposed to a \emph{pitcher's park}.
+
+\item[hitting for power] \index{baseball term!hitting for power}  Hitting home runs.
+
+\item[holding runner on base] \index{baseball term!holding runner on base}  Activity of the first baseman, standing close to first base when a runner is at first base, so that the runner will take stay closer to the base (take less of a lead) to avoid being tagged out if the pitcher were to throw the ball to the first baseman. This is done so that the runner is less likely to steal second base.
+
+\item[home plate]\index{baseball term!home plate} Flat rubber marker with a square shape facing toward the pitcher and a triangular side facing away from the pitcher. Catchers work in a crouched position behind home plate. When batting, players stand beside home plate in the batter's box. And after running around the bases, they must touch home plate to score a run. Also called \emph{home base}.
+
+\item[home run (HR)]\index{baseball term!home run (HR)} A hit in which the batter reaches as far as home plate. Also called a \emph{homer} or the \emph{long ball}. Usually obtained by hitting the ball over the fences. For an \emph{inside-the-part home run}, the ball stays in the field of play while the batter runs around the bases, touching home plate safely.  Idiomatic expression:\,when we do a good job on a project, we say we have hit a home run.
+
+\item[home team] \index{baseball term!home team} The team that is playing a game away in its home stadium. Also see \emph{away team} or \emph{visiting team}.
+
+\item[illegal pitch]\index{baseball term!illegal pitch} A pitch delivered by the pitcher without his pivot foot on the pitcher's plate, a quick pitch, or a balk.
+
+\item[infielder]\index{baseball term!infielder} Defensive player who plays close to the bases.
+
+\item[inning]\index{baseball term!inning} Unit of play in a baseball game. An inning consists of three outs. A full inning consists of the visiting team batting, followed by the home team batting. The top of the inning is the portion of the inning in which the visiting team is batting. The bottom of the inning is the portion of the inning with the home team batting. 
+
+\item[intentional base on balls]\index{baseball term!intentional base on balls} The pitcher gives a batter a base on balls without trying to throw strikes. Used as baseball strategy to avoid pitching to the hitter (who may be a good hitter) or to put a runner on first base so that force-outs are possible.
+
+\item[interference] \index{baseball term!interference} Offensive interference occurs when the batting team interferes with, obstructs, impedes, or confuses any fielder attempting to make a play. For example, a runner hit by the ball while running interferes with the fielder trying to catch the ball. This is referred to as being \emph{soaked}, and the runner is called out.
+Defensive interference occurs when the catcher's glove touches the bat, affecting the batter's swing or preventing him from hitting the ball. There can also be umpire interference and spectator/fan interference.
+
+\item[in the hole] \index{baseball term!in the hole} From the batter's point of view, a situation in which he has more strikes than balls.  Also called \emph{down in the count}.
+
+\item[keystone sack]\index{baseball term!keystone sack} Another term for second base.
+
+\item[knuckleball] \index{baseball term!knuckleball}  A very slow pitch (MLB speeds 55--70 mph) with little spin that moves in an unpredictable manner. Also called a \emph{knuckler}.
+
+\item[lead-off hitter]\index{baseball term!lead-off hitter} The first hitter in the line-up,  selected to begin the team's hitting because he has a good chance of getting on base.
+
+\item[leave the yard (go yard)]\index{baseball term!leave the yard (go yard)} Baseball slang for hitting a home run.
+
+
+\item[left fielder (LF)]\index{baseball term!left fielder (LF)} Defensive player who plays on the left side of the outfield where ``left side'' is defined by looking at the field from home plate. Position number 7.  Idiomatic expression:\,crazy ideas come out of left field.
+
+\item[left on base (LOB)] \index{baseball term!left on base (LOB)} Player on base while the team reaches three outs, ending that batting team's half-inning. 
+
+\item[lefty] \index{baseball term!lefty} Player who bats or throws left-handed.
+
+\item[line drive] \index{baseball term!line drive} Ball hit in the air, as opposed to a ground ball, but not hit high in the air, as opposed to a fly ball.
+
+\item[lineup] \index{baseball term!lineup} The order of players/hitters for a team submitted to the home plate umpire at the beginning of the game, with changes reported to the umpire during the game.
+
+\item[live ball]\index{baseball term!live ball} A ball that is in play, as opposed to a \emph{dead ball.}
+
+\item[live ball era]\index{baseball term!live ball era} After 1920 there was a requirement to use a new white ball in Major League Baseball. Contrasted with \emph{dead ball era}.
+
+\item[making the turn]\index{baseball term!making the turn} A runner running to first base is permitted to run beyond the base and toward foul territory. If instead of running toward foul territory, the runner begins on the path to second base, he is referred to as making the turn and may be tagged out by a fielder.
+
+\item[manager] \index{baseball term!manager} Person responsible for a team's actions on the field. May be one of the players.
+
+\item[manufactured run] \index{baseball term!manufactured run} Run generated by a ``small ball'' strategy of getting runners on base and advancing them one base at a time by singles, walks, and stolen bases, as opposed to extra-base hits.
+
+\item[Mendoza Line]\index{baseball term!Mendoza Line} Named after Mario Mendoza, a big league shortstop who's lifetime batting average was .215. The Mendoza Line is a .200 batting average, thought to be a minimally acceptable batting average for a position player. A better term for this line might be the ``Uecker Line,'' after Bob Uecker, a strong defensive catcher whose career batting average with the Braves in Milwaukee and Atlanta, 1962--1967, was exactly .200.
+
+\item[men on base] \index{baseball term!men on base}  Batting team's runners on first, second, and/or third base.
+
+\item[middle reliever] \index{baseball term!middle reliever} Pitcher who enters a game after the start of the game and before the end of the game. Distinct from the starting pitcher and the closer.
+
+\item[middle infielder] \index{baseball term!middle infielder} Second baseman or shortstop. See \emph{up the middle}.
+
+\item[MLB] \index{baseball term!MLB}  Major League Baseball. Professional baseball organization in the United States. Currently composed of thirty teams in two leagues, fifteen in the American League and fifteen in the National League. 
+
+\item[National League] \index{baseball term!National League} In Major League Baseball, one of two leagues composed of fifteen teams, five in each of three divisions. The National League does not allow the designated hitter.  See \emph{American League}.
+
+\item[neighborhood play]\index{baseball term!neighborhood play} When there is a close play at second base with the runner sliding into the base, a force out may be recorded even if the second baseman does not keep his foot on the base. As long as the second baseman's foot is in the neighborhood of second base, the force out is recorded. This is to avoid injuries to the players who are wearing spikes on their shoes. See \emph{force out}.
+
+\item[no hitter]\index{baseball term!no hitter} Pitcher pitches nine innings  without allowing a hit, although batters may reach base through walks or errors. Also see \emph{perfect game}.
+
+\item[no-no]\index{baseball term!no-no} Baseball slang for a no hitter. Think in terms of no hits and no runs scored by the other team. Also see \emph{perfect game}.
+
+
+\item[obstruction] \index{baseball term!obstruction} A fielder impeding the progress of a runner while not in possession of the ball.
+
+\item[offense]\index{baseball term!offense} Team up to bat, as opposed to the team that in the field (defense).
+
+\item[official scorer]\index{baseball term!official scorer} Person designated to keep records of the game and make decisions about hits versus fielding errors.
+
+\item[on the field (team)]\index{baseball term!on the field (team)} The team on the field is the team playing defense, as opposed to the batting team.
+
+\item[on-base percentage (OBP)]\index{baseball term!on-base percentage (OBP)} Proportion of plate appearances in which a batter reaches base through a hit, walk, or hit by pitch. Does not include reaching base by a fielding error, fielder's choice, dropped/uncaught third strike, fielder's obstruction, or catcher's interference. Also called on-base average (OBA). Usually presented as a proportion, not a percentage.  Popularized by the \citeN{Lewis:2003} book \emph{Moneyball} and the subsequent movie by the same name, OBP is seen as a better index of offensive performance than batting average. Computed as 
+$$OBP = {(Hits + Walks + Hit \hspace*{.03in} by \hspace*{.03in} Pitch)\over(At \hspace*{.03in} Bats + Walks + Hit \hspace*{.03in} by \hspace*{.03in} Pitch + Sacrifices)}$$
+Getting a walk or being hit by a pitch has the same effect as a base hit for the batter himself---they move the batter to first base without an out being recorded.  The average regular-season OBP across the thirty MLB teams in the 2014 season was 0.314 \cite{SportsReferenceBatting:2015}.  A rule of thumb in selecting good batters is to look for OBP values above 0.333---that is, we look for batters who get on base about one in every three plate appearances.
+
+\item[on-base percentage plus slugging (OPS)]\index{on-base  percentage plus slugging (OPS)} Measure of overall hitting prowess. $$OPS = OBP + SLG$$ The average regular-season OPS across the thirty MLB teams in the 2014 season was 0.700 \cite{SportsReferenceBatting:2015}.   
+
+\item[open batting stance]\index{baseball term!open batting stance} A batter's position in the batter's box in which the foot closest to the pitcher is further away from home plate than the foot farthest from the pitcher.
+
+\item[out]\index{baseball term!out} One of three units of play for the batting team. That is, there are three outs in a half-inning.  
+
+\item[``out'']\index{baseball term!``out''}  Umpire call indicating that an out is to be recorded.
+
+\item[outfielder]\index{baseball term!outfielder} Defensive player who plays far away from the bases.
+
+\item[overslide]\index{baseball term!overslide} At second or third base, a runner can, after touching the base, go beyond the base and lose contact with the base. When the player loses contact with the base, he may be tagged out by a fielder. An overslide can occur at second and third base.  An overslide is not relevant at first base where running beyond the base and toward foul territory is permitted. An overslide is not relevant at home base, where running beyond home base after scoring a run completes the runner's path around the bases.
+
+\item[pace of play]\index{baseball term!pace of play} Also called \emph{pace of game}. Major League Baseball has been experimenting with ways to speed up the game, focusing on unnecessary delays by pitchers or batters. This is controversial because  the leisurely pace and lack of a time clock are attractions of baseball.  The introduction of video replay affects pace of play, making games longer.
+
+\item[passed ball]\index{baseball term!passed ball} Pitch that gets past the catcher that is the fault of the catcher, as opposed to a wild pitch, which is the fault of the pitcher.
+
+\item[PECOTA]\index{baseball term!PECOTA} A measurement and prediction system that uses player-comparable age curves as its base data. The name refers to Bill Pecota, a Kansas City Royals infielder from the 1980s.
+
+\item[perfect game]\index{baseball term!perfect game} Pitcher pitches nine innings  without allowing a runner to reach base---no hits, no walks, no errors.  Twenty-seven batters come to the plate, and they all make outs.
+
+\item[pick off assignment]\index{baseball term!pick off assignment}  Designation of the fielder responsible for covering the bag for a pick off play. Relevant to pick offs at second base, where either the second baseman or the shortstop could cover the bag.
+
+\item[pick off play]\index{baseball term!pick off play}  A pitcher throws to first, second, or third base in an attempt to catch a runner off base. The fielder receiving the ball must tag the runner out before the runner touches a base. Most commonly executed with a runner at first base.
+
+\item[pinch hitter] \index{baseball term!pinch hitter} Player batting for another player, replacing the original player in the lineup. The original player may not return to the game.
+
+\item[pinch runner] \index{baseball term!pinch runner} Player running for another player who happens to be on base, replacing the original player in the lineup. The original player may not return to the game.
+
+\item[pitch] \index{baseball term!pitch}  Ball delivered by the pitcher to the batter.
+
+\item[pitch count] \index{baseball term!pitch count}  The number of pitches (balls plus strikes) thrown by a pitcher after his entry into a game. This number is watched carefully by managers. A starting pitcher's pitch count of one hundred is seen as a warning signal by many managers. With higher pitch counts, pitchers are more susceptible to injuries.  At higher pitch counts, a pitcher's fastball velocity is reduced. The pitcher is less effective in getting outs.  
+Pitch count also refers to the number of pitches that a batter has faced in a given at-bat.  The offensive team may employ a high-pitch-count strategy, attempting to take more pitches (balls and strikes) to drive up the starting pitcher's pitch count, thus forcing that pitcher out of the game. 
+This was one of the strategies popularized by the \citeN{Lewis:2003} book \emph{Moneyball} and the subsequent movie by the same name.
+
+
+\item[pitcher (P)] \index{baseball term!pitcher (P)}  Defensive player responsible for throwing the ball to the batter. Position number 1.
+
+\item[pitcher's duel] \index{baseball term!pitcher's duel}  A game in which two dominant pitches are pitching, with very few runs being scored.
+
+\item[pitcher's park] \index{baseball term!pitcher's park} Parks such as U.S. Cellular Field in Chicago and AT\&T Park in San Francisco are known to be favorable to pitchers, yielding lower expected runs across all in-game states. As opposed to a \emph{hitter's park}.
+
+
+\item[pitcher's plate] \index{baseball term!pitcher's plate}  A rectangular hard rubber platform near the middle of the pitcher's mound.  The pitcher's pivot foot must be on the pitcher's plate prior to delivering the ball to the batter.   Also called the \emph{rubber}.
+
+\item[pitching from the stretch]\index{baseball term!pitching from the stretch} Instead of using a full windup, the pitcher uses a partial windup, coming to a full stop before throwing. Typically used when there is a runner on base.
+
+\item[pitching depth]\index{baseball term!pitching depth} Number of pitchers a team has available for a game.
+
+\item[pitching mound] \index{baseball term!pitching mound}  Raised circular area from which the pitcher pitches.
+
+
+\item[pitching rotation] \index{baseball term!pitching rotation}  The ordered set of four or five players that a team uses as its starting pitchers.  Across games in the regular season, starting pitchers usually have a fixed sequence of appearance so that each pitcher has three or four days rest between starts.
+
+\item[pivot foot]\index{baseball term!pivot foot} Pitcher's foot that must be in contact with the pitcher's plate when delivering the ball to the batter.
+
+\item[place hitter] \index{baseball term!place hitter}  Hitter who controls the bat so well as to place the ball where no fielders can get to it, while keeping the ball in the park.
+
+\item[plate]\index{baseball term!plate} Baseball slang verb for scoring a run. Comes from the term ``home plate.''  So ``they plate two'' means ``they score two runs.''
+
+\item[plate appearance]\index{baseball term!plate appearance} Sum of at bats, walks, hit by pitches and sacrifices. 
+$$Plate  \hspace*{.03in} Apperances = At \hspace*{.03in} Bats + Walks + Hit \hspace*{.03in} by \hspace*{.03in} Pitch + Sacrifices$$
+
+\item[platooning] \index{baseball term!platooning} A managerial strategy in which different lineups are used when facing right-handed versus left-handed pitchers.  For example, the lineup may include more right-handed hitters when the starting pitcher of the opposing team is left-handed and more left-handed hitters when the starting pitcher of the opposing team is right-handed.  This is done because right-handed hitters are expected to be less effective against right-handed pitchers and left-handed hitters are expected to be less effective against left-handed pitchers. These differences in effectiveness are due to the fact that a curve ball breaks away from a like-handed hitter, making it harder to hit.
+
+\item[``play ball'']\index{baseball term!``play ball''} Umpire-in-chief's order to begin the game.
+
+\item[pop-up] \index{baseball term!pop-up} Ball hit in the air that does not travel far. Usually caught by an infielder, catcher, or pitcher.
+
+\item[position number]\index{baseball term!position number} Number associated with field position and used for official scoring: (1) pitcher, (2) catcher, (3) first baseman, (4) second baseman, (5) third baseman, (6) shortstop, (7) left fielder, (8) center fielder, and (9) right fielder.
+
+\item[position player]\index{baseball term!position player} Player other than the pitcher. That is, an infielder, outfielder, or catcher.
+
+\item[power hitter] \index{baseball term!power hitter} Baseball player who hits home runs.
+
+\item[productive at bat] \index{baseball term!productive at bat} An at bat that advances a runner in some way, including a hit, sacrifice bunt, sacrifice fly, or hitting behind a runner to advance the runner.  Also called a \emph{productive out}, with the opposite being an \emph{unproductive out}.
+
+\item[pull hitter]\index{baseball term!pull hitter} A right-handed batter who usually hits the ball between second and third base or to left field. Alternatively, a left-handed batter who usually hits the ball between first and second base or to right field.  In response to pull hitters, some fielding teams put on a shift, moving players away from their normal positions.
+
+\item[pull the string]\index{baseball term!pull the string} Baseball slang for fooling a batter with a pitch, usually a curveball.
+
+\item[quick pitch]\index{baseball term!quick pitch} A pitch delivered by the pitcher without giving the batter sufficient time to get situated in the batter's box. Also called a \emph{quick return}.
+
+\item[reaching for the fences] \index{baseball term!reaching for the fences} Baseball player who tries to hit home runs.
+
+\item[regulation game] \index{baseball term!regulation game} Game that counts as an official completed game.  Some games are canceled. Others are postponed without being complete and must be completed at a later time or date.
+
+\item[relief pitcher] \index{baseball term!relief pitcher} Pitcher who enters the game after the starting pitcher has been removed from the game.
+
+\item[replay review] \index{baseball term!replay review}  A subset of umpire calls is subject to video replay review by umpires located in a remote location.  These \emph{reviewable calls} include potential home run calls, non-home-run boundary calls, specified fair/foul ball calls, force out/tag out calls, catches in the outfield, hit-by-pitch calls, collisions at home plate, tag-up calls, and various force-out/tag-out calls.  Balls and strikes called by the home plate umpire are not reviewable.
+
+\item[retouch] \index{baseball term!retouch} Runner returning to base after passing a base. Runner must be touching the base to avoid being tagged out by a fielder.
+
+\item[reverse curve] \index{baseball term!reverse curve}  A breaking ball that moves in the opposite direction from a curveball.  Also called a \emph{screwball} or \emph{fall-away}.
+
+\item[right fielder (RF)]\index{baseball term!right fielder (RF)} Defensive player who plays on the right side of the outfield where ``right side'' is defined by looking at the field from home plate.  Position number 9.
+
+\item[RISP]\index{baseball term!RISP}  Symbol for a runner in scoring position, which is a runner on second or third base because a single is usually enough to get that runner home.
+
+
+\item[rounding the bases]\index{baseball term!rounding the bases} Baseball slang for running around the bases, from first to second, to third, to home.
+
+\item[run]\index{baseball term!run}  Unit of scoring in baseball. Also called a \emph{score}. Analogous to a point in football or basketball.
+
+\item[run batted in (RBI)]\index{baseball term!run batted in (RBI)}  When a runner scores as a result of a batter's hit, sacrifice, or fielder's choice out, the batter gets an RBI.
+
+\item[run down]\index{baseball term!run down}  A runner caught between bases may be tagged out by a fielder. Often two or more fielders are involved in this activity, throwing the ball back and forth in an attempt to tag the runner out.
+
+\item[runner]\index{baseball term!runner}  Offensive player no longer at bat, but on the base paths.
+
+
+\item[sacrifice bunt] \index{baseball term!sacrifice bunt}  A bunt that successfully advances a baserunner.
+
+\item[sacrifice fly] \index{baseball term!sacrifice fly}  A line drive or fly ball that successfully advances a baserunner. The baserunner must tag the current base and advance to the next base without being tagged out.
+
+\item[``safe''] \index{baseball term!``safe''}  Umpire call, awarding a base to a runner.
+
+
+\item[scoring position]\index{baseball term!scoring position}  A runner on second or third base is referred to as a runner in scoring position because a single is usually enough to get that runner home.  
+
+\item[screwball] \index{baseball term!screwball}  A breaking ball that moves in the opposite direction from a curveball.  Also called a \emph{reverse curve} or \emph{fall-away}.
+
+\item[season] \index{baseball term!season} In Major League Baseball, a baseball season consists of 162 games, 81 away games and 81 home games.
+
+\item[second base]\index{baseball term!second base} Base in the middle of the infield, between first and third bases. Also called the \emph{keystone sack}.
+
+\item[second baseman]\index{baseball term!second baseman} Defensive player, infielder who plays closest to second base.  Position number 4.
+
+\item[secondary lead]\index{baseball term!secondary lead} A baserunner takes his initial lead off the base while the pitcher is in his windup. But after the pitcher throws the ball, the baserunner moves further away from the base. This additional distance from the base is known as a secondary lead.
+
+\item[semi-intentional walk]\index{baseball term!semi-intentional walk} A walk in which the pitcher pitches to the batter with the intention of walking him but without the catcher signaling an intentional walk. The event is recorded as a walk, rather than an intentional walk. 
+
+\item[set position]\index{baseball term!set position} Legal pitching position usually used when  offensive players are on base. In the set position, the pitcher comes to a complete stop prior to throwing the ball. The other legal position is the \emph{windup position.}  Also see \emph{balk}.
+
+\item[shadow ball] \index{baseball term!shadow ball} Baseball pantomime or playing with an imaginary ball to entertain fans. Popularized in the black baseball teams during the depression.
+
+\item[shift]\index{baseball term!shift} On-the-field players playing out of position to adjust to the particular strengths of the hitter.  For a right-handed pull hitter, for example, a shift may involve the second baseman playing between second base and third base, instead of in his normal position between second base and first base.  The use of the shift is controversial. Fielders playing away from their normal positions may be less proficient in making double plays, executing pick offs, and taking cut-off positions. The shift also affects the integrity of baseball data. Suppose a third baseman is in a shift, playing between first base and second base with a left-handed pull hitter at bat. When that third baseman fields a ground ball between first and second base, throwing the batter out at first, the play is recorded as a 5-3 put out, implying that the ball was hit toward third base.  
+
+\item[shine ball] \index{baseball term!shine ball} The pitcher rubs the ball clean on one side using his uniform, while applying dirt or powder on the other side. Employed to affect the ball's trajectory.
+
+\item[shutout] \index{baseball term!shutout}  A complete nine-inning game thrown by one pitcher with no runs scored by the opposing team..
+
+\item[shortstop]\index{baseball term!shortstop} Defensive player, infielder who, like the third baseman, plays between second base and third base. But the shortstop is further from third base than the third baseman.  Position number 6.
+
+\item[side-arm delivery] \index{baseball term!side-arm delivery} Pitching delivery in between a common overhand delivery and an underhand delivery (as in softball). 
+
+\item[single (1B)]\index{baseball term!single (1B)} A hit in which the batter reaches as far as first base. Also called a \emph{base hit}.
+
+\item[slider] \index{baseball term!slider} A ball gripped like a two-seam fastball, but slightly off-center. With MLB speeds 70--85 mph, it is not as fast as a fastball but breaks in the same direction as a curveball.
+
+\item[slugging percentage (SLG)]\index{baseball term!slugging percentage (SLG)} Measure of hitting power.  Babe Ruth's slugging percentage was 0.690, the MLB all-time record. The maximum value possible is 4.0, implying that a player hits a home run in every at bat.  Computed as 
+$$SLG = {{(Singles + (2 \times Doubles) + (3 \times Triples) + (4 \times Home  \hspace*{.03in} Runs)}\over{At \hspace*{.03in} Bats}}$$
+The average regular-season SLG across the thirty MLB teams in the 2014 season was 0.386 \cite{SportsReferenceBatting:2015}.  
+
+
+\item[small ball] \index{baseball term!small ball}  Baseball strategy based on base hits, walks, and stolen bases. That is, runs are scored by advancing by one base at a time---manufactured runs. Also called an \emph{inside game}, suggesting that the action is inside the base paths.
+
+
+\item[spin rate] \index{baseball term!spin rate}  The rate of a pitched ball's spin on its way from the pitcher's hand to home plate.  Fastballs with the same speed in miles per hour may have very different spin rates. Fastballs with low spin rates (fewer than 2,000 revolutions per minute) are sometimes called ``heavy.'' They appear to sink.  Fastballs with high spin rates (more than 2,500 revolutions per minute) have more movement.
+
+
+
+
+\item[spitball] \index{baseball term!spitball} Also called a \emph{spitter}.  The pitcher applies saliva or some foreign substance to the ball, which may affect the ball's trajectory. Spitballs are not allowed in Major League Baseball, although some pitchers have been suspected of throwing spitballs.
+
+\item[squeeze play] \index{baseball term!squeeze play} A batter bunts with a runner on third and fewer than two outs, trying to bring the runner home.  With a \emph{suicide squeeze}, the runner on third begins running home as the pitcher begins to throw the ball. With a \emph{safety squeeze}, the runner on third begins running after the batter bunts the ball.
+
+\item[starting pitcher] \index{baseball term!starting pitcher} The pitcher who is in the starting line-up for a game, as opposed to a relief pitcher.
+
+\item[steal (stolen base, SB)]\index{baseball term!steal (stolen base, SB)} Advancing from first to second base, second to third, or third to home without the assistance of a hit, passed ball, or wild pitch. The MLB success rate in stolen bases since 1990 is around 70 percent \cite{Baumer-Zimbalist:2014}.
+
+\item[stepping in the bucket] \index{baseball term!stepping in the bucket}  Baseball slang for a batter whose foot closest to the pitcher moves away from home plate when swinging at the ball. May happen to a batter regardless of his batting stance (closed or open).  Also, known as \emph{bailing out}.
+
+\item[strike] \index{baseball term!strike}  For a \emph{called strike}, a pitched ball within the strike zone that the batter does not swing at on any strike.  Or a ball that the batter hits foul on a first or second strike. For a \emph{strike swinging}, a ball that the batter swings at but does not hit on any strike. Or, on a third strike, a ball that the batter swings at and hits foul directly into the catcher's glove or hand, which is also known as a \emph{foul tip}. Or, on an attempted bunt on the third strike, a bunt that is hit outside the foul lines is a strike swinging.  For keeping a complete record of balls and strikes, any ball that is put into play (regardless of its position in the strike zone) is counted as a strike.
+
+\item[strikeout (K)] \index{baseball term!strikeout (K)}  A batter gets three strikes before getting four balls. Can be a  \emph{strikeout looking} or \emph{called strike three} with the batter not swinging at the ball or a \emph{strikeout swinging}. The symbol \emph{K} represents a strikeout and may be thought of as coming from the word ``knockout'' or from the letter ``k'' in ``strikeout.''  The \emph{K} is sometimes written backwards to indicate a strikeout looking.  If first base is unoccupied by a runner and the catcher fails to catch the third strike, then the batter can be granted first base if he reaches that base before being forced out. The symbol \emph{SO} is used to represent a strikeout or the number of strikeouts by a batter.  
+
+\item[strike zone] \index{baseball term!strike zone}  Rectangular region with its base width and depth defined by the area of home plate and its height defined by reference to the batter, extending from the batter's kneecap to approximately three baseballs above the batter's belt. Formerly, the upper range of the strike zone was the batter's shoulders. The effective strike zone varies from one umpire to the next. A smaller or narrow strike zone favors the batter. A larger or wide strike zone favors the pitcher.  Baseball analysts measure the size of the strike zone by area in square feet. 
+
+
+\item[suspended game]\index{baseball term!suspended game} A called game to be completed at a later time/date.
+
+\item[sweep]\index{baseball term!sweep} Baseball slang for winning all games in a short series (usually three or four games) with another team. Also known as a ``clean sweep.'' 
+
+\item[switch hitter]\index{baseball term!switch hitter} Batter who can hit either from the left or right side. 
+
+\item[switch pitcher]\index{baseball term!switch pitcher} Pitcher who can throw with either hand.  Extremely rare player.
+
+\item[tagging up]\index{baseball term!tagging up}  When there are fewer than three outs, a runner may keep his foot on a base, wait until a fly ball is caught, and then run to the next base. Upon tagging up in this way, the runner will be granted the next base if he is not tagged out by a fielder prior to touching the next base.
+
+\item[tag out]\index{baseball term!tag out} As opposed to a \emph{force out}, an out recorded for a runner by tagging him with the ball or glove containing the ball before the runner can touch the base.  Also called a  \emph{tag play}.
+
+\item[take a lead (off base)] \index{baseball term!take a lead (off base)}  A runner moves away from the base he is positioned at and in the direction of the next base in order to get a head start in running to or stealing the next base.
+See \emph{holding runner on base}.
+
+\item[take a pitcher deep]\index{baseball term!take a pitcher deep} Baseball slang for hitting a home run.
+
+\item[Texas Leaguer]\index{baseball term!Texas Leaguer} Term used for a ball that falls for a hit between the infielders and the outfielders. Also called a ``bloop single.'' The Texas League is a Double-A minor league baseball league, but there is no evidence that this type of hit is any more prevalent in that league than in any other league.
+
+\item[third base]\index{baseball term!third base} The base after first and second base that a runner must touch on his way to home plate to score a run.
+
+
+\item[third baseman]\index{baseball term!third baseman} Defensive player, infielder who plays closest to third base.  Position number 5.
+
+\item[three-bagger]\index{baseball term!three-bagger} A hit in which the batter reaches as far as third base. Also called a \emph{triple}.
+
+\item[throw] \index{baseball term!throw}  Any act of throwing the ball in play other than pitching to the batter. 
+
+\item[throwing error] \index{baseball term!throwing error}  A defensive play that should have resulted in an out, but does not.  Due to throwing, not catching. Also see fielding error. 
+
+\item[tie game] \index{baseball term!tie game}  Regulation game called with home and away teams having the same number of runs. Rare event in baseball. 
+
+\item[``time''] \index{baseball term!``time''}  An umpire call, interrupting play. The ball is dead while time is called.
+
+\item[tip a pitch] \index{baseball term!tip a pitch}  An action by the pitcher that reveals the type of pitch that is being thrown. This could be the pitcher's position on the pitcher's plate (rubber), arm angle, or release point. If any of these varies with the type of pitch, an astute batter may be able to make an inference about the type of pitch being thrown.  Knowing the type of pitch that is being thrown gives the batter an advantage in hitting.
+
+\item[total bases (TB)] \index{baseball term!total bases (TB)}  The number of bases a player gains as a result of hits.  That is, the number of singles, plus two times the number of doubles, three times the number of triples, and four times the number of home runs.
+
+\item[triple (3B)]\index{baseball term!triple (3B)} A hit in which the batter reaches as far as third base. Also called a \emph{three-bagger}.
+
+\item[triple crown]\index{baseball term!triple crown} Batter across the regular season who leads the league in batting average, home runs, and runs batted in.
+
+\item[triple-play]\index{baseball term!triple-play} Getting three outs on one play.  Various triple plays are designated by player position numbers. For example, a 5-4-3 triple-play involves a throw from the third baseman to the second baseman, followed by a throw from the second baseman to the first baseman. An \emph{unassisted triple-play} is a triple-play performed by one player alone.
+
+\item[two-bagger]\index{baseball term!two-bagger} A hit in which the batter reaches as far as second base. Also called a \emph{double (2B)}.
+
+\item[umpire]\index{baseball term!umpire} Person enforcing the official rules of Major League Baseball, calling safe or out on the base paths, fair or foul balls, and balls or strikes at home base. Four umpires are set for regular season games, associated with each of the bases and with the umpire at home base calling balls and strikes. In playoff games two additional umpires are added, one for the right field line and one for the left field line.
+
+\item[umpire-in-chief]\index{baseball term!umpire-in-chief} Lead umpire of the umpiring crew.
+
+\item[up the middle]\index{baseball term!up the middle} Sound defense up the middle refers to the play of the middle infielders (second baseman and shortstop) and the center fielder. Many teams put their best fielders in these positions because so many balls are hit toward the middle of the field (up the middle).
+
+\item[up to bat (team)]\index{baseball term!up to bat (team)} The batting team or team on offense, as opposed to the fielding team.
+
+\item[visiting team] \index{baseball term!visiting team} The team that is playing a game away from its home stadium. Also called \emph{away team}.
+
+\item[VORP] \index{baseball term!VORP} A player's value over a replacement player of average ability at the same position. Expressed in units of runs per game. A summary performance measure similar to \emph{WAR}.
+
+\item[walk] \index{baseball term!walk} Batter awarded first base because four balls are called before three strikes. Also called a \emph{base on balls (BB)}.
+
+\item[walk-off balk] \index{baseball term!walk-off balk} A pitcher's balk that brings a runner on third home to win a game in the bottom of the ninth inning.  A very rare event. Could also be called a \emph{balk-off win}.
+
+\item[walk-off hit] \index{baseball term!walk-off hit} A hit that scores a run for the home team in the bottom of the ninth inning, winning the game.
+
+\item[walk-off home run] \index{baseball term!walk-off home run} A home run for the home team in the bottom of the ninth inning, winning the game.
+
+\item[WAR (WARP)] \index{baseball term!WAR (WARP)} Wins above replacement (player) across an entire season.  A player's value over a replacement player of average ability at the same position. A WAR value of 5, say, means that the team will win five fewer runs across the entire season if it has to replace the player.
+Expressed in units of wins across the season, with ten runs being equivalent to one win. Various proprietary versions of this measure exist, one variation being wins above replacement player (WARP). WAR is a summary performance measure similar to \emph{VORP}.  The measure \emph{openWAR} represents an open-source measure of WAR, which permits calculation from public-domain data sources. 
+
+\item[WHIP] \index{baseball term!WHIP} Walks and hits allowed per inning pitched. Like earned run average (ERA), a summary measure of pitching performance.   
+
+\item[Wild Card Game]\index{baseball term!Wild Card Game} After the end of the regular season, a one-game playoff game between two wildcard teams, which are the teams with the best records without having won their divisions.
+
+\item[wild pitch]\index{baseball term!wild pitch} Pitch that gets past the catcher that is the fault of the pitcher, as opposed to a passed ball, which is the fault of the catcher. A wild pitch is viewed as uncatchable. 
+
+\item[windup position]\index{baseball term!windup position} Legal pitching position usually used when there are no offensive players on base. In the windup position, the pitcher does not come to a complete stop prior to throwing the ball. The other legal position is the \emph{set position.}  
+
+\item[World Series] \index{baseball term!World Series} Best-of-seven game playoff at the end of the Major League Baseball season, featuring the winner of the American League Championship Series (pennant) against the winner of the National League Championship Series (pennant). Played every year since 1903, with the exception of 1904 and 1994.  
+
+\endinput
+
+
+
